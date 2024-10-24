@@ -24,10 +24,10 @@ time: Para medir o tempo de execução.
 
 ## Exemplo de Saída
 
-```Melhor cidade inicial: 1 
+``` Melhor cidade inicial: 1 
 Melhor percurso: 1 -> 3 -> 5 -> ... -> 1
 Distância total: 7542
-Tempo decorrido: 0.4321 segundos´´´
+Tempo decorrido: 0.4321 segundos 
 
 
 
